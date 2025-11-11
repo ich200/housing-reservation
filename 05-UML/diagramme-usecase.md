@@ -1,1 +1,1 @@
-<img width="1390" height="1070" alt="diag use case 2" src="https://github.com/user-attachments/assets/9029f5da-75fe-4093-aed5-1d18f76d599b" />
+<img width="1300" height="1020" alt="use case " src="https://github.com/user-attachments/assets/e17dcb3f-de81-47ed-b99b-68d6f0475818" />
